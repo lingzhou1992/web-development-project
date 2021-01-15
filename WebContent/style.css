@@ -1,0 +1,55 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+	letter-spacing: 1px;
+	line-height:150%;
+	color: #726E6A;
+	padding: 0; 
+	margin: 0;  
+}
+
+
+form{
+	display:inline-block;
+}
+
+div.img {
+    margin: 5px;
+    padding: 5px;
+    height: auto;
+    width: auto;
+    float: left;
+    text-align: center;
+}	
+
+div.img img {
+    display: inline;
+    margin: 5px;
+}
+
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 140px;
+  margin: 5px;
+  display:inline-block;
+}
+
+
+.form-signin {
+  max-width: 500px;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+#col_one{
+    width:30%;
+    float:left;
+}
+
+#col_two{
+    width:70%;
+    float:left;
+}
+	
